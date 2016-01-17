@@ -1,0 +1,90 @@
+{
+    "recipes":[
+    {
+        "ingredients":[
+            {
+                "liquides":[
+                    {
+                        "laits": [
+                            {
+                                "origine":"ex:vache",
+                                "consistance":"ex:concentre"
+                            }
+                        ]
+                    },{
+                        "jus":[
+                            {
+                                "matiere":"ex:fruit/legume",
+                                "goût":"ex:sucré"
+                            }
+                        ]
+                    },{
+                        "alcools":[
+                            {
+                                "nom":"ex:bière",
+                                "matiere":"ex:ble",
+                                "provenance":"ex:Allemagne"
+                            }
+                        ]
+                    }
+                    
+                ]
+            }, {
+                "solides":[
+                    
+                ]
+            }
+        ]
+    },{
+        "dosages":[
+            {
+                "chiffres":[
+                    {
+                        "valeur":"ex:1"
+                    }
+                ]
+            },{
+                "mesures":[
+                    {
+                        "masses":[
+                            {
+                                "notation":"kilogramme ou kg",
+                                "notation":"hectogramme ou hg",
+                                "notation":"decagramme ou dag",
+                                "notation":"gramme ou g",
+                                "notation":"decigramme ou dg",
+                                "notation":"centigramme ou cg",
+                                "notation":"milligramme ou lg",
+                       ]
+                    },{
+                        "volumes":[
+                            {
+                                "notation":"litre ou L",
+                                "notation":"decilitre ou dL",
+                                "notation":"centilitre ou cL",
+                                "notation":"millilitre ou mL"
+                            }
+                        ]
+                    },{
+                        "quantites":[
+                            {
+                                "notation":"tasse",
+                                "notation":"cuillere a soupe",
+                                "notation":"cuillere a cafe",
+                                "notation":"pincee",
+                                "notation":"goutte"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },{
+            "procedes":[
+                {
+                    "etape":"ex:1",
+                    "texte":"melanger tel ingredient avec tel autre"
+                }
+            ]
+        }   
+]   
+}
