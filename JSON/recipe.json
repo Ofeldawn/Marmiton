@@ -40,7 +40,9 @@
             {
                 "chiffres":[
                     {
-                        "valeur":"ex:1"
+                        "valeur1":"ex:1",
+                        "valeur2":"2",
+                        "valeur3":"3"
                     }
                 ]
             },{
@@ -48,31 +50,31 @@
                     {
                         "masses":[
                             {
-                                "notation":"kilogramme ou kg",
-                                "notation":"hectogramme ou hg",
-                                "notation":"decagramme ou dag",
-                                "notation":"gramme ou g",
-                                "notation":"decigramme ou dg",
-                                "notation":"centigramme ou cg",
-                                "notation":"milligramme ou lg",
+                                "notation0":"kilogramme ou kg",
+                                "notation1":"hectogramme ou hg",
+                                "notation2":"decagramme ou dag",
+                                "notation3":"gramme ou g",
+                                "notation4":"decigramme ou dg",
+                                "notation5":"centigramme ou cg",
+                                "notation6":"milligramme ou lg",
                        ]
                     },{
                         "volumes":[
                             {
-                                "notation":"litre ou L",
-                                "notation":"decilitre ou dL",
-                                "notation":"centilitre ou cL",
-                                "notation":"millilitre ou mL"
+                                "notation0":"litre ou L",
+                                "notation1":"decilitre ou dL",
+                                "notation2":"centilitre ou cL",
+                                "notation3":"millilitre ou mL"
                             }
                         ]
                     },{
                         "quantites":[
                             {
-                                "notation":"tasse",
-                                "notation":"cuillere a soupe",
-                                "notation":"cuillere a cafe",
-                                "notation":"pincee",
-                                "notation":"goutte"
+                                "notation0":"tasse",
+                                "notation1":"cuillere a soupe",
+                                "notation2":"cuillere a cafe",
+                                "notation3":"pincee",
+                                "notation4":"goutte"
                             }
                         ]
                     }
